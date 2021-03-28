@@ -1,13 +1,18 @@
-# solutionChallenge
+# Solution Challenge
 Hi, we are team Teamchy!
-This is our Flutter application.
+
+The project is Teachy, a Flutter application.
+
 To open the file, you need to download this project first.
-Next, you can create a Flutter project in terminal and name it flutter_application_1.
+
+Second, you can create a Flutter project in terminal and name it flutter_application_1.(So the import files won't occur erros)
+
+Next,drag the file you just download into flutter_application_1, and cover all the file.
+
+Finally, you can run the app via andoid studio code or terminal!
 
 
-A new Flutter project.
-
-## Getting Started
+## Some Flutter informations
 
 This project is a starting point for a Flutter application.
 
