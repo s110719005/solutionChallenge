@@ -12,7 +12,7 @@ Next,drag the file you just download into flutter_application_1, and cover all t
 Finally, you can run the app via andoid studio code or terminal!
 
 
-## Some Flutter informations
+## Information about Flutter
 
 This project is a starting point for a Flutter application.
 
