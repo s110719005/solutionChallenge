@@ -1,5 +1,5 @@
-# Solution Challenge
-Hi, we are team Teamchy!
+# Google Developer Student Clubs Solution Challenge 2021 - Submission
+## Hi, we are team Teamchy!
 
 The project is Teachy, a Flutter application.
 
@@ -12,7 +12,7 @@ Next,drag the file you just download into flutter_application_1, and cover all t
 Finally, you can run the app via andoid studio code or terminal!
 
 
-## Information about Flutter
+### Information about Flutter
 
 This project is a starting point for a Flutter application.
 
