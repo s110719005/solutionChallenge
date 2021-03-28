@@ -1,4 +1,9 @@
-# flutter_application_1
+# solutionChallenge
+Hi, we are team Teamchy!
+This is our Flutter application.
+To open the file, you need to download this project first.
+Next, you can create a Flutter project in terminal and name it flutter_application_1.
+
 
 A new Flutter project.
 
@@ -14,4 +19,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# solutionChallenge
+
