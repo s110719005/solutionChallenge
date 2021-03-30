@@ -2,19 +2,19 @@
 ## Hi, we are team Teamchy!
 
 1.Install Android Studio
-- [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwmIuDBhDXARIsAFITC_40lgIyf3MXwfbqSvMNpmW2SsMJ6Gx7k9XvC1f4YzY5C2gceRQ0QRAaAoWqEALw_wcB&gclsrc=aw.ds)
+[Android Studio](https://developer.android.com/studio?gclid=Cj0KCQjwmIuDBhDXARIsAFITC_40lgIyf3MXwfbqSvMNpmW2SsMJ6Gx7k9XvC1f4YzY5C2gceRQ0QRAaAoWqEALw_wcB&gclsrc=aw.ds)
 2.Install flutter
-- [Flutter](https://flutter.dev/docs/get-started/install)
+[Flutter](https://flutter.dev/docs/get-started/install)
 3. Download the github file and rename it as flutter_application_1
 4. Put the project files into Users/user/AndroidStudioProjects
 5. Open pubspec.yaml,select pub get & get dependencies 
   If Dart SDK is not configured:
-  1. File-> Settings (ctrl+alt+s)
-  2. Languages and Frameworks -> Dart
-  3. Check "Enable Dart support for the project..."
-  4. In "Dart SDK path" click in "..." and navigate to flutter SDK directory. Under that directory you'll find "bin/cache/dart-sdk". This is the dart sdk path you should use.
-  5. Click "Apply"
-  6. Close the project and open it again (sometimes you need this step, sometimes doesn't)
+  - File-> Settings (ctrl+alt+s)
+  - Languages and Frameworks -> Dart
+  - Check "Enable Dart support for the project..."
+  - In "Dart SDK path" click in "..." and navigate to flutter SDK directory. Under that directory you'll find "bin/cache/dart-sdk". This is the dart sdk path you should use.
+  - Click "Apply"
+  - Close the project and open it again (sometimes you need this step, sometimes doesn't)
 7. Open lib/main.dart,select Chrome as emulator, run the app.
 8. Tada! You did it!
 
