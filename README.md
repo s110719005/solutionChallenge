@@ -6,7 +6,7 @@
 3. Download the github file and rename it as flutter_application_1
 4. Put the project files into Users/user/AndroidStudioProjects
 5. Open pubspec.yaml,select pub get & get dependencies 
-  -If Dart SDK is not configured:
+  - If Dart SDK is not configured:
     - File-> Settings (ctrl+alt+s)
     - Languages and Frameworks -> Dart
     - Check "Enable Dart support for the project..."
