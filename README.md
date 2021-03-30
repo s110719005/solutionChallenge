@@ -13,8 +13,8 @@
     - In "Dart SDK path" click in "..." and navigate to flutter SDK directory. Under that directory you'll find "bin/cache/dart-sdk". This is the dart sdk path you should use.
     - Click "Apply"
     - Close the project and open it again (sometimes you need this step, sometimes doesn't)
-7. Open lib/main.dart,select Chrome as emulator, run the app.
-8. Tada! You did it!
+6. Open lib/main.dart,select Chrome as emulator, run the app.
+7. Tada! You did it!
 
 ### Information about Flutter
 
